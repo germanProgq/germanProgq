@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is German (he/him) and I am an experienced Full-Stack programmer with 3+ years of experience.<br>I have major experience in the following languages: {HTML, CSS, C#, .js, Python, Java}. I am also at the moment trying to learn React and three.js for a more smooth look of my websites.<br>I'm looking to collaborate with some skilled developers to create something spectacular and revolutionary.<br>As of right now, I am working on an e-commerce marketplace with 3D elements and Payment system, great design and innovative programming.<br>You can contact me on Twitter(X): @GermanVinokurov; Telegram: @girsh_vinok; E-mail: girshvinok@gmail.com.<br>Fun fact: I started coding at 14yo
+Hello! My name is German (he/him) and I am an experienced Full-Stack programmer with 3+ years of experience. <br>I am a young developer with a dream and passion for coding. I'm looking to collaborate with some skilled developers to create something spectacular and revolutionary. Here, I post a ton of my finished work, as well as my ideas and thoughts. Enjoy your stay :)
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ Hello! My name is German (he/him) and I am an experienced Full-Stack programmer 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=germanProgq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
