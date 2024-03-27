@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is German (he/him) and I am an experienced Full-Stack programmer with 3+ years of experience. <br>I am a young developer with a dream and passion for coding. I'm looking to collaborate with some skilled developers to create something spectacular and revolutionary. Here, I post a ton of my finished work, as well as my ideas and thoughts. Enjoy your stay :)
+Hello! My name is German (he/him) and I'm n experienced Full-Stack programmer with 3+ years of experience. <br>I am a young developer with a dream and passion for coding. I'm looking to collaborate with some skilled developers to create something spectacular and revolutionary. Here, I post a ton of my finished work, as well as my ideas and thoughts. Also, feel free to use any of my ideas and codes, that's why they are here. Enjoy your stay :)
 
 
 ## 🌐 Socials:
