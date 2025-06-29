@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
 </div>
 
 ## 🚀 About Me
@@ -47,7 +47,7 @@ const german = {
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
 </div>
 
 > *"All my codes and ideas are open for you to explore and use. Feel free to take inspiration or jumpstart your own innovation!"*
@@ -61,7 +61,7 @@ const german = {
 ## 🌐 **Connect With Me**
 *Let's build the future together!*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
 
 <div align="center">
   <a href="https://discord.gg/eeh_">
@@ -241,7 +241,7 @@ const funFacts = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
 
 ### 🚀 *Ready to build something amazing together?*
 ### 📧 *Let's connect and make tech history!*
@@ -249,10 +249,12 @@ const funFacts = {
 
 <img src="https://komarev.com/ghpvc/?username=germanProgq&label=Profile%20views&color=0e75b6&style=flat" alt="germanProgq" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,100:DA44B8&height=120&section=footer&animation=fadeIn"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=120&section=footer"/>
+</div>
