@@ -6,12 +6,14 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm German
 
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=3000&pause=1000&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Scroll+down+to+explore+more!" /></a>
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full-Stack+Developer!;Tech+Innovator!;Problem+Solver!;Code+Architect!" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header&animation=fadeIn" />
 </div>
 
 ## 🚀 About Me
@@ -45,7 +47,7 @@ const german = {
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header&animation=fadeIn" />
 </div>
 
 > *"All my codes and ideas are open for you to explore and use. Feel free to take inspiration or jumpstart your own innovation!"*
@@ -126,13 +128,13 @@ const german = {
 <div align="center">
 
 ### 🔥 **Core Languages**
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,js,ts,go,swift,cs,java" />
+<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,rust,py,js,ts,go,swift,cs,java&perline=10" /></a>
 
 ### 🌐 **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,html,css,tailwind,sass,bootstrap" />
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,threejs,html,css,tailwind,sass,bootstrap&perline=8" /></a>
 
 ### ⚡ **Backend Power**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,redis,docker" />
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,redis,docker&perline=8" /></a>
 
 ### ☁️ **Cloud & DevOps**
 <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,nginx,apache" />
@@ -154,16 +156,7 @@ const german = {
 
 ## 🎯 **Skill Levels**
 
-```text
-🚀 System Programming    ████████████████████   100%
-🌐 Web Development       ████████████████████    95%
-📱 Mobile Development    ███████████████████     90%
-🤖 AI/ML                 ██████████████████      85%
-🔗 Blockchain            █████████████████       80%
-☁️  Cloud/DevOps         ████████████████        75%
-🎨 UI/UX Design          ███████████████         70%
-🔐 Cybersecurity         ████████████████        75%
-```
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=1500&pause=500&color=E34C26&center=true&vCenter=true&multiline=true&width=600&height=300&lines=🚀+System+Programming++++████████████████████+++100%25;🌐+Web+Development+++++++███████████████████++++95%25;📱+Mobile+Development++++██████████████████+++++90%25;🤖+AI%2FML++++++++++++++++++█████████████████++++++85%25;🔗+Blockchain++++++++++++████████████████++++++++80%25;☁️++Cloud%2FDevOps+++++++++███████████████+++++++++75%25;🎨+UI%2FUX+Design++++++++++██████████████++++++++++70%25;🔐+Cybersecurity+++++++++███████████████+++++++++75%25" /></a>
 
 </div>
 
@@ -262,4 +255,4 @@ const funFacts = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,100:DA44B8&height=120&section=footer&animation=fadeIn"/>
