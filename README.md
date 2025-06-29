@@ -167,7 +167,7 @@ const german = {
 
 ## 🎯 **Skill Levels**
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=1000&color=E34C26&center=true&vCenter=true&width=800&height=40&lines=🚀+System+Programming+████████████████████+100%25+|+🌐+Web+Development+███████████████████+95%25;📱+Mobile+Development+██████████████████+90%25+|+🤖+AI%2FML+█████████████████+85%25;🔗+Blockchain+████████████████+80%25+|+☁️+Cloud%2FDevOps+███████████████+75%25;🎨+UI%2FUX+Design+██████████████+70%25+|+🔐+Cybersecurity+███████████████+75%25" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=1000&pause=3000&color=E34C26&center=true&vCenter=true&multiline=true&width=600&height=300&lines=🚀+System+Programming++++░░░░░░░░░░░░░░░░░░░░+++0%25;🚀+System+Programming++++████████████████████++100%25;🌐+Web+Development+++++++███████████████████+++95%25;📱+Mobile+Development++++██████████████████++++90%25;🤖+AI%2FML++++++++++++++++++█████████████████+++++85%25;🔗+Blockchain++++++++++++████████████████++++++80%25;☁️++Cloud%2FDevOps+++++++++███████████████+++++++75%25;🎨+UI%2FUX+Design++++++++++██████████████++++++++70%25;🔐+Cybersecurity+++++++++███████████████+++++++75%25" /></a>
 
 </div>
 
@@ -236,7 +236,6 @@ const german = {
 ### 📧 *Let's connect and make tech history!*
 ### ✉️ [gvniok@duck.com](mailto:gvniok@duck.com)
 
-<img src="https://komarev.com/ghpvc/?username=germanProgq&label=Profile%20views&color=0e75b6&style=flat" alt="germanProgq" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 
