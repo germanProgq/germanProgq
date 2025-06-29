@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b52394d2d53463144485a394243434d3d">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const german = {
@@ -112,7 +112,7 @@ const german = {
 <div align="center">
 
 ## 🔥 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=germanProgq&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=germanProgq&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 
 </div>
 
@@ -168,8 +168,10 @@ const german = {
 
 <div align="center">
 
-## 🎵 **Spotify Playing**
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k54z4lxjz4wnuqdkwvtlhilrmq&unique=1" alt="Spotify" width="400" />
+## 🎵 **Currently Vibing To**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=2500&lines=🎧+Lofi+Hip+Hop+Beats;🎵+Electronic+Music;🎸+Synthwave+Classics;🥁+Drum+%26+Bass;🎹+Ambient+Soundscapes" />
+</div>
 
 </div>
 
@@ -178,7 +180,11 @@ const german = {
 <div align="center">
 
 ## 🐍 **Contribution Snake**
-<img src="https://raw.githubusercontent.com/germanProgq/germanProgq/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
