@@ -4,8 +4,8 @@
 
 <div align="center">
 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm German
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=3000&pause=1000&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Scroll+down+to+explore+more!" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full-Stack+Developer!;Tech+Innovator!;Problem+Solver!;Code+Architect!" />
 
