@@ -112,7 +112,7 @@ const german = {
 <div align="center">
 
 ## 🔥 **Contribution Graph**
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=germanProgq&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=germanProgq&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 
 </div>
 
