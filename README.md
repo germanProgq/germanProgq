@@ -19,7 +19,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const german = {
@@ -167,7 +167,7 @@ const german = {
 
 ## 🎯 **Skill Levels**
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=1500&pause=500&color=E34C26&center=true&vCenter=true&multiline=true&width=600&height=300&lines=🚀+System+Programming++++████████████████████+++100%25;🌐+Web+Development+++++++███████████████████++++95%25;📱+Mobile+Development++++██████████████████+++++90%25;🤖+AI%2FML++++++++++++++++++█████████████████++++++85%25;🔗+Blockchain++++++++++++████████████████++++++++80%25;☁️++Cloud%2FDevOps+++++++++███████████████+++++++++75%25;🎨+UI%2FUX+Design++++++++++██████████████++++++++++70%25;🔐+Cybersecurity+++++++++███████████████+++++++++75%25" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=1000&color=E34C26&center=true&vCenter=true&width=800&height=40&lines=🚀+System+Programming+████████████████████+100%25+|+🌐+Web+Development+███████████████████+95%25;📱+Mobile+Development+██████████████████+90%25+|+🤖+AI%2FML+█████████████████+85%25;🔗+Blockchain+████████████████+80%25+|+☁️+Cloud%2FDevOps+███████████████+75%25;🎨+UI%2FUX+Design+██████████████+70%25+|+🔐+Cybersecurity+███████████████+75%25" /></a>
 
 </div>
 
@@ -214,24 +214,6 @@ const german = {
 
 </div>
 
----
-
-<div align="center">
-
-## 💡 **Fun Facts About Me**
-
-```javascript
-const funFacts = {
-    🧠: "I dream in code and wake up with solutions",
-    ⚡: "Can debug code faster than I can make coffee",
-    🎯: "My code reviews are legendary (ask my teammates)",
-    🚀: "I've optimized algorithms that run faster than light",
-    🎨: "I make Assembly code look like poetry",
-    🌟: "Every bug is just a feature waiting to be discovered"
-};
-```
-
-</div>
 
 ---
 
