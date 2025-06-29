@@ -4,7 +4,6 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm German
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=3000&pause=1000&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Scroll+down+to+explore+more!" /></a>
 
@@ -13,12 +12,14 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 </div>
 
 ## 🚀 About Me
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+
+<div align="center">
 
 ```javascript
 const german = {
@@ -46,22 +47,28 @@ const german = {
 };
 ```
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
 </div>
 
-> *"All my codes and ideas are open for you to explore and use. Feel free to take inspiration or jumpstart your own innovation!"*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
+</div>
 
-**🎯 Mission:** Collaborating with skilled developers to craft something truly **spectacular**—a project so revolutionary it'll redefine the tech world!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=800&height=30&duration=4000&pause=1000&color=E34C26&lines=All+my+codes+and+ideas+are+open+for+you+to+explore+and+use!;Feel+free+to+take+inspiration+or+jumpstart+your+own+innovation!" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=800&height=40&duration=3000&pause=800&color=DA44B8&lines=🎯+Mission%3A+Building+something+truly+spectacular!;Let's+redefine+the+tech+world+together!" />
+</div>
 
 ---
 
 <div align="center">
 
 ## 🌐 **Connect With Me**
-*Let's build the future together!*
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=400&height=25&duration=2000&pause=1000&color=E34C26&lines=Let's+build+the+future+together!;Connect+with+me+on+social+media!" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 
 <div align="center">
   <a href="https://discord.gg/eeh_">
@@ -95,11 +102,11 @@ const german = {
 
 ## 📊 **GitHub Analytics**
 
-<img src="https://github-readme-stats.vercel.app/api?username=germanProgq&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=germanProgq&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=germanProgq&theme=radical&hide_border=false" alt="GitHub Streak" />
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=germanProgq&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanProgq&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanProgq&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
 
 </div>
 
@@ -108,7 +115,7 @@ const german = {
 <div align="center">
 
 ## 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=germanProgq&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=germanProgq&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" /></a>
 
 </div>
 
@@ -117,13 +124,17 @@ const german = {
 <div align="center">
 
 ## 🔥 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=germanProgq&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=germanProgq&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" /></a>
 
 </div>
 
 ---
 
 ## 💻 **Tech Arsenal**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=600&height=30&duration=3000&pause=1000&color=E34C26&lines=Technologies+I+work+with+daily;My+technical+expertise" />
+</div>
 
 <div align="center">
 
@@ -137,16 +148,16 @@ const german = {
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,redis,docker&perline=8" /></a>
 
 ### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,nginx,apache" />
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,nginx,apache&perline=6" /></a>
 
 ### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,react,swift,dart" />
+<a href="#"><img src="https://skillicons.dev/icons?i=flutter,react,swift,dart&perline=4" /></a>
 
 ### 🤖 **AI & Machine Learning**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" />
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python&perline=4" /></a>
 
 ### 🛠️ **Tools & Utilities**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,webpack,vite" />
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,webpack,vite&perline=7" /></a>
 
 </div>
 
@@ -209,8 +220,6 @@ const german = {
 
 ## 💡 **Fun Facts About Me**
 
-<div align="center">
-
 ```javascript
 const funFacts = {
     🧠: "I dream in code and wake up with solutions",
@@ -221,8 +230,6 @@ const funFacts = {
     🌟: "Every bug is just a feature waiting to be discovered"
 };
 ```
-
-</div>
 
 </div>
 
@@ -241,7 +248,7 @@ const funFacts = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 
 ### 🚀 *Ready to build something amazing together?*
 ### 📧 *Let's connect and make tech history!*
@@ -249,7 +256,7 @@ const funFacts = {
 
 <img src="https://komarev.com/ghpvc/?username=germanProgq&label=Profile%20views&color=0e75b6&style=flat" alt="germanProgq" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E34C26,100:DA44B8&height=2&animation=fadeIn" />
 
 </div>
 
