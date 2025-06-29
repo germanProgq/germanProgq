@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
 </div>
 
 ## 🚀 About Me
@@ -45,7 +45,7 @@ const german = {
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
 </div>
 
 > *"All my codes and ideas are open for you to explore and use. Feel free to take inspiration or jumpstart your own innovation!"*
@@ -59,7 +59,7 @@ const german = {
 ## 🌐 **Connect With Me**
 *Let's build the future together!*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
 
 <div align="center">
   <a href="https://discord.gg/eeh_">
@@ -79,6 +79,9 @@ const german = {
   </a>
   <a href="https://youtube.com/@@selectronXD">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
+  <a href="mailto:gvniok@duck.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </div>
 
@@ -213,6 +216,8 @@ const german = {
 
 ## 💡 **Fun Facts About Me**
 
+<div align="center">
+
 ```javascript
 const funFacts = {
     🧠: "I dream in code and wake up with solutions",
@@ -223,6 +228,8 @@ const funFacts = {
     🌟: "Every bug is just a feature waiting to be discovered"
 };
 ```
+
+</div>
 
 </div>
 
@@ -241,19 +248,18 @@ const funFacts = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
 
 ### 🚀 *Ready to build something amazing together?*
 ### 📧 *Let's connect and make tech history!*
+### ✉️ [gvniok@duck.com](mailto:gvniok@duck.com)
 
 <img src="https://komarev.com/ghpvc/?username=germanProgq&label=Profile%20views&color=0e75b6&style=flat" alt="germanProgq" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,100:DA44B8&height=3&width=100%&section=header" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
