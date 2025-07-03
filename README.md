@@ -91,7 +91,7 @@ const german = {
 
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=germanProgq&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanProgq&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
+<!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanProgq&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a> -->
 
 </div>
 
