@@ -25,22 +25,7 @@
 const german = {
     pronouns: "he" | "him",
     code: ["JavaScript", "TypeScript", "Python", "C++", "Rust", "Assembly"],
-    askMeAbout: ["web dev", "tech", "app dev", "blockchain", "AI/ML"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Three.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask", "Django", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "Redis"]
-        },
-        devOps: ["Docker", "Kubernetes", "AWS", "GCP"],
-        mobile: ["React Native", "Flutter", "Swift"],
-        blockchain: ["Solidity", "Web3.js", "Ethers.js"],
-        ai: ["TensorFlow", "PyTorch", "OpenAI", "CUDA"]
-    },
+    askMeAbout: ["web dev", "tech", "app dev", "blockchain", "AI/ML", "DevOps"],
     architecture: ["Serverless", "Microservices", "Event-Driven", "Progressive Web Apps"],
     currentFocus: "Building revolutionary tech that'll change the world 🌍",
     funFact: "I can code in Assembly and make it look beautiful!"
