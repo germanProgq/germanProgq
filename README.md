@@ -40,10 +40,6 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=germanProgq&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=00000000&icon_color=CC2222&text_color=ffffff&ring_color=CC2222" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=germanProgq&hide_border=true&background=00000000&ring=CC2222&fire=DAA520&currStreakLabel=CC2222&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </p>
 
