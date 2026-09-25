@@ -45,3 +45,26 @@ for i, (name, label) in enumerate(technologies):
 <title>{label}</title><g class="logo">{art}</g>
 <path class="line" d="M18 52H34" stroke="#ff233d" stroke-width="2" stroke-linecap="round" opacity=".3"/>
 </svg>''')
+
+# Keep the stack aligned without README tables or individual card containers.
+groups = [
+    ('LANGUAGES', ['typescript', 'javascript', 'python', 'rust', 'cplusplus', 'c', 'go', 'kotlin', 'dart']),
+    ('WEB & MOBILE', ['react', 'nextjs', 'expo', 'flutter', 'html5', 'css3']),
+    ('APIS & DATA', ['nodejs', 'fastapi', 'postgresql', 'mongodb', 'sqlite']),
+    ('SYSTEMS & TOOLS', ['wasm', 'docker', 'git', 'cmake']),
+]
+from html import escape
+parts = ['<svg xmlns="http://www.w3.org/2000/svg" width="800" height="248" viewBox="0 0 800 248" role="img" aria-labelledby="stack-title"><title id="stack-title">Technology stack grouped by languages, web and mobile, APIs and data, systems and tools</title>']
+for row, (label, names) in enumerate(groups):
+    y = row * 62
+    parts.append(f'<text x="0" y="{y + 31}" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1" fill="#ba969d">{escape(label)}</text>')
+    for col, name in enumerate(names):
+        icon = ET.fromstring((assets / f'{name}.svg').read_text())
+        icon.set('x', str(145 + col * 68)); icon.set('y', str(y))
+        art = ET.tostring(icon, encoding='unicode')
+        # Scope animation selectors to preserve each logo's phase.
+        art = art.replace('.logo', f'.logo-{name}').replace('.line', f'.line-{name}')
+        art = art.replace('class="logo"', f'class="logo-{name}"').replace('class="line"', f'class="line-{name}"')
+        parts.append(art)
+parts.append('</svg>')
+(assets / 'stack.svg').write_text(''.join(parts))
