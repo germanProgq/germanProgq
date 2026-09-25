@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img">
 <style>text{font-family:Inter,Arial,sans-serif}.mono{font-family:ui-monospace,Menlo,monospace}.muted{fill:#9ea9b8}.light{fill:#f1f4f8}</style>
-<rect width="960" height="290" rx="16" fill="#10151e"/>
+<defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#27121c"/><stop offset=".55" stop-color="#151521"/><stop offset="1" stop-color="#27111a"/></linearGradient></defs><rect x="1.5" y="1.5" width="957" height="287" rx="16" fill="url(#panel)" stroke="#ef4444" stroke-width="2.5"/>
 <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#252e3e" stroke-width=".5"/></pattern></defs>
 <rect x="620" width="340" height="290" fill="url(#grid)"/>
 <rect x="36" y="36" width="36" height="4" rx="2" fill="#ef4444"/>
@@ -10,8 +10,8 @@
 <text x="38" y="202" class="mono muted" font-size="15">TypeScript / React · Rust · Python · C++</text>
 <text x="38" y="252" class="muted" font-size="13">Senior Full-Stack Developer @ Positron  /  Co-founder @ Veltos.tech</text>
 <path d="M700 80H750V140H840V210H905" fill="none" stroke="#ef4444" stroke-width="2"/>
-<path d="M700 210H750V140H840V80H905" fill="none" stroke="#58687f" stroke-width="2"/>
+<path d="M700 210H750V140H840V80H905" fill="none" stroke="#f2bb54" stroke-width="2"/>
 <g fill="#10151e" stroke="#ef4444" stroke-width="2"><circle cx="700" cy="80" r="8"/><circle cx="750" cy="140" r="10"/><circle cx="840" cy="210" r="8"/><circle cx="905" cy="210" r="5"/></g>
-<g fill="#a9b5c5"><circle cx="700" cy="210" r="5"/><circle cx="840" cy="80" r="5"/><circle cx="905" cy="80" r="5"/></g>
+<g fill="#f2bb54"><circle cx="700" cy="210" r="5"/><circle cx="840" cy="80" r="5"/><circle cx="905" cy="80" r="5"/></g>
 <circle cx="750" cy="140" r="18" fill="none" stroke="#ef4444" opacity=".5"><animate attributeName="r" values="14;26;14" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0;.6" dur="4s" repeatCount="indefinite"/></circle>
 </svg>
