@@ -1,82 +1,78 @@
-<!-- Motion-forward profile README -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=2800&pause=900&color=CC2222&center=true&vCenter=true&width=700&lines=Full-Stack+%2B+Systems+Engineer;Rust+%7C+React+%7C+Python+%7C+C%2B%2B;From+embedded+systems+to+ML+pipelines." alt="Intro typing animation" />
-</p>
-
-<p align="center">
-  <a href="mailto:gvinok@duck.com"><img src="https://img.shields.io/badge/Email-gvinok%40duck.com-CC2222?style=flat&logo=gmail&logoColor=ffffff" alt="Email" /></a>
-  &nbsp;
-  <a href="https://x.com/GermanVinokurov"><img src="https://img.shields.io/badge/X-%40GermanVinokurov-111111?style=flat&logo=x&logoColor=ffffff" alt="X / Twitter" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/german-vinokurov-300b26320"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/germanProgq?label=Follow&style=flat&color=CC2222" alt="GitHub followers" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=germanProgq&color=CC2222&style=flat&label=Visitors" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=CC2222&height=2&section=header&reversal=true" alt="divider" />
-</p>
-
-<br/>
-
-## Building now
-
-Senior Full-Stack Developer at **Positron** and co-founder / co-owner of **[Veltos.tech](https://veltos.tech)**. I build user portals, backend services, and C++/Rust systems.
-
-- **Positron:** rebuilding a 1C-Bitrix portal with TypeScript, React Native / Expo, WebAssembly, and a Rust backend; automating paper-based workflows.
-- **StarsVPN:** creator of [starsafeconnect.com](https://starsafeconnect.com), with work on the React/TypeScript dashboard and Rust node setup and configuration.
-
-[Explore my portfolio](https://germanprogq.github.io/portfolio/) · [Get in touch](mailto:gvinok@duck.com)
-
-## Selected builds
-
-| Project | What I built | Stack |
-| --- | --- | --- |
-| [P2P Chat](https://github.com/germanProgq/p2pchat) | Messaging core, C FFI integration with Rust/Tauri, and unit/integration tests | C++17, SQLite, OpenSSL, CMake, CTest |
-| [B2B SaaS templates](https://github.com/germanProgq/b2b-saas-templates) | Reusable backend templates with authentication, permissions, and organization-scoped APIs | Rust/Axum, Python/FastAPI, TypeScript/Node.js, PostgreSQL |
-| [Resident-services backend](https://github.com/germanProgq/novoye-devyatkino-hoa) | Document downloads, service requests, status tracking, and authentication | C++17, PostgreSQL, cpp-httplib |
-| [TACS](https://github.com/germanProgq/TACS) | Tracking, actor-critic learning, training fixes, and a traffic simulator | C++17, Kalman filtering, reinforcement learning |
-
-Open to **full-stack, backend, and C++/Rust** opportunities. Commercial work includes React/Node.js applications, Python EV-charging APIs, C++ WebAssembly optimization, and a confidential Rust/C++ maintenance contract.
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,python,ts,react,fastapi,flask&perline=8" alt="Languages and frameworks" />
+  <img src="assets/header.svg" width="100%" alt="German Vinokurov — full-stack and systems developer. TypeScript, React, Rust, Python and C++." />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,redis,git,graphql,sqlite,pytorch,opencv&perline=8" alt="Tools and ML" />
+  <a href="https://germanprogq.github.io/portfolio/"><img src="assets/portfolio.svg" height="38" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/german-vinokurov-300b26320"><img src="assets/linkedin.svg" height="38" alt="LinkedIn" /></a>
+  <a href="mailto:gvinok@duck.com"><img src="assets/email.svg" height="38" alt="Email me" /></a>
+  <a href="https://x.com/GermanVinokurov"><img src="assets/x.svg" height="38" alt="X / Twitter" /></a>
 </p>
 
-<br/>
+### 01 / What I’m building
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=CC2222&height=2&section=header&reversal=true" alt="divider" />
-</p>
+I work across **interfaces, services, and systems code**—from React user portals to Rust backends and C++ WebAssembly modules.
 
-## Stats
+**Positron · Senior Full-Stack Developer**  
+Rebuilding a legacy 1C-Bitrix user portal with **TypeScript, React Native / Expo, WebAssembly, and Rust**. Improving automation and moving paper-based workflows into software.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=germanProgq&hide_border=true&background=00000000&ring=CC2222&fire=DAA520&currStreakLabel=CC2222&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
-</p>
+**[Veltos.tech](https://veltos.tech) · Co-founder & co-owner**  
+Co-founded and run a digital product development company, started in August 2026.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=germanProgq&bg_color=00000000&color=CC2222&line=DAA520&point=CC2222&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=germanProgq&bg_color=ffffff&color=CC2222&line=DAA520&point=CC2222&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=germanProgq&bg_color=00000000&color=CC2222&line=DAA520&point=CC2222&hide_border=true" alt="Contribution activity graph" />
-  </picture>
-</p>
+**[StarsVPN](https://starsafeconnect.com) · Creator**  
+Work on the React/TypeScript dashboard and Rust node setup and configuration.
 
-<br/>
+### 02 / Selected work
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=germanProgq&theme=onedark&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/germanProgq/p2pchat">P2P Chat ↗</a></h3>
+<p>Messaging core with SQLite storage, OpenSSL, and a C FFI bridge to Rust/Tauri. Unit and integration tests with CTest.</p>
+<p><code>C++17</code> <code>Rust</code> <code>SQLite</code> <code>CMake</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/germanProgq/b2b-saas-templates">B2B SaaS templates ↗</a></h3>
+<p>Reusable backend templates with authentication, permissions, and organization-scoped APIs across three stacks.</p>
+<p><code>Rust / Axum</code> <code>Python / FastAPI</code> <code>Node.js</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/germanProgq/novoye-devyatkino-hoa">Resident services ↗</a></h3>
+<p>Backend for document downloads, service requests, status tracking, and user authentication.</p>
+<p><code>C++17</code> <code>PostgreSQL</code> <code>cpp-httplib</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/germanProgq/TACS">TACS ↗</a></h3>
+<p>Traffic-control project with Kalman-filter tracking, actor-critic learning, training fixes, and a traffic simulator.</p>
+<p><code>C++17</code> <code>Reinforcement learning</code></p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC2222&height=120&section=footer" alt="Footer wave" />
-</p>
+### 03 / Engineering toolkit
+
+<img src="assets/stack.svg" width="100%" alt="Interfaces: TypeScript, React, React Native, Expo, Next.js. Services: Rust, Axum, Python, FastAPI, Node.js, Express. Systems: C++17, WebAssembly, CMake, CTest, FFI. Data and tools: PostgreSQL, MongoDB, SQLite, Git, Docker." />
+
+<details>
+<summary><strong>More about my engineering background</strong></summary>
+
+- **Ayuniqa:** Node.js/MongoDB services, React dashboards, and C++ WebAssembly modules for loading, animations, and request handling.
+- **Pando Electric:** Python services and APIs for EV charging, access control, billing events, and reporting.
+- **Confidential contract:** maintenance and bug fixes in legacy Rust/C++ codebases for crypto market making.
+- **Earlier work:** industrial automation with PLCs and sensors; machine-learning project work including graph-based delivery optimization.
+- **Education:** B.Sc. in Computer Programming at NUST MISIS, in progress; expected 2027.
+
+</details>
+
+### 04 / Activity
+
+<a href="https://github.com/germanProgq?tab=overview"><img src="assets/activity.svg" width="100%" alt="GitHub contribution activity. Dated snapshot; follow this link for the live contribution calendar." /></a>
+
+<sub>Snapshot dated September 25, 2026. [Live activity](https://github.com/germanProgq?tab=overview) · [Graphic source](scripts/render_profile.py)</sub>
+
+### 05 / Let’s talk
+
+Open to **full-stack, backend, and C++/Rust** development opportunities. Explore the code above, visit my [portfolio](https://germanprogq.github.io/portfolio/), or reach me at **[gvinok@duck.com](mailto:gvinok@duck.com)**.
+
+<img src="assets/footer.svg" width="100%" alt="Let’s build something useful. gvinok@duck.com / germanProgq" />
