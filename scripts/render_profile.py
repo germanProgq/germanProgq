@@ -15,3 +15,33 @@ banner.write_text('''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height
 <text x="48" y="198" font-family="monospace" font-size="23" letter-spacing="3" fill="#ff4056">FULL-STACK DEVELOPER</text>
 <path d="M48 230H310" stroke="#ff233d" stroke-width="4"/>
 </svg>''')
+
+
+# Wrap locally stored logos in a small, staggered animation.
+import json
+from xml.etree import ElementTree as ET
+ET.register_namespace('', 'http://www.w3.org/2000/svg')
+assets = banner.parent
+technologies = json.loads((assets / 'technologies.json').read_text())
+for i, (name, label) in enumerate(technologies):
+    icon = ET.fromstring((assets / 'logos' / f'{name}.svg').read_text())
+    icon.set('x', '8'); icon.set('y', '8')
+    icon.set('width', '36'); icon.set('height', '36')
+    if name in ('rust', 'expo', 'nextjs'):
+        for node in icon.iter():
+            color = node.get('fill', '').lower()
+            if color in ('#000', '#000000', 'black'):
+                node.set('fill', '#f4edef')
+        icon.set('fill', '#f4edef')
+    art = ET.tostring(icon, encoding='unicode')
+    (assets / f'{name}.svg').write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="52" height="58" viewBox="0 0 52 58" role="img" aria-label="{label}">
+<style>
+.logo {{ animation: float 6s ease-in-out infinite; animation-delay: -{i * .19:.2f}s; }}
+.line {{ animation: pulse 6s ease-in-out infinite; animation-delay: -{i * .19:.2f}s; }}
+@keyframes float {{ 0%, 65%, 100% {{ transform: translateY(0); }} 32% {{ transform: translateY(-3px); }} }}
+@keyframes pulse {{ 0%, 65%, 100% {{ opacity: .18; }} 32% {{ opacity: .85; }} }}
+@media (prefers-reduced-motion: reduce) {{ .logo, .line {{ animation: none; }} }}
+</style>
+<title>{label}</title><g class="logo">{art}</g>
+<path class="line" d="M18 52H34" stroke="#ff233d" stroke-width="2" stroke-linecap="round" opacity=".3"/>
+</svg>''')

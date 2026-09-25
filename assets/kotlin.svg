@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="58" viewBox="0 0 52 58" role="img" aria-label="Kotlin">
+<style>
+.logo { animation: float 6s ease-in-out infinite; animation-delay: -3.80s; }
+.line { animation: pulse 6s ease-in-out infinite; animation-delay: -3.80s; }
+@keyframes float { 0%, 65%, 100% { transform: translateY(0); } 32% { transform: translateY(-3px); } }
+@keyframes pulse { 0%, 65%, 100% { opacity: .18; } 32% { opacity: .85; } }
+@media (prefers-reduced-motion: reduce) { .logo, .line { animation: none; } }
+</style>
+<title>Kotlin</title><g class="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="8" y="8" width="36" height="36">
+  <defs>
+    <linearGradient id="a" x1="500.003" x2="-.097" y1="579.106" y2="1079.206" gradientTransform="translate(15.534 -96.774) scale(.1939)" gradientUnits="userSpaceOnUse">
+      <stop offset=".003" stop-color="#e44857" />
+      <stop offset=".469" stop-color="#c711e1" />
+      <stop offset="1" stop-color="#7f52ff" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M112.484 112.484H15.516V15.516h96.968L64 64Zm0 0" />
+</svg></g>
+<path class="line" d="M18 52H34" stroke="#ff233d" stroke-width="2" stroke-linecap="round" opacity=".3"/>
+</svg>
