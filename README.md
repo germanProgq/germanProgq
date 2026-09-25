@@ -4,7 +4,7 @@
   <img src="assets/typescript.svg?v=motion1" width="44" height="49" alt="TypeScript" title="TypeScript" />
   <img src="assets/javascript.svg?v=motion1" width="44" height="49" alt="JavaScript" title="JavaScript" />
   <img src="assets/react.svg?v=motion1" width="44" height="49" alt="React / React Native" title="React / React Native" />
-  <img src="assets/nextjs.svg?v=motion1" width="44" height="49" alt="Next.js" title="Next.js" />
+  <img src="assets/nextjs.svg?v=motion2" width="44" height="49" alt="Next.js" title="Next.js" />
   <img src="assets/expo.svg?v=motion1" width="44" height="49" alt="Expo" title="Expo" />
   <img src="assets/html5.svg?v=motion1" width="44" height="49" alt="HTML5" title="HTML5" />
   <img src="assets/css3.svg?v=motion1" width="44" height="49" alt="CSS3" title="CSS3" />

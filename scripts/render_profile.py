@@ -27,7 +27,7 @@ for i, (name, label) in enumerate(technologies):
     icon = ET.fromstring((assets / 'logos' / f'{name}.svg').read_text())
     icon.set('x', '8'); icon.set('y', '8')
     icon.set('width', '36'); icon.set('height', '36')
-    if name in ('rust', 'expo', 'nextjs'):
+    if name in ('rust', 'expo'):
         for node in icon.iter():
             color = node.get('fill', '').lower()
             if color in ('#000', '#000000', 'black'):
