@@ -6,7 +6,6 @@
 <rect x="0" y="0" width="12" height="260" fill="#ff233d"/>
 <path d="M1010 0H1200V260H900Z" fill="#ec1835"/>
 <path d="M1060 0L950 260M1110 0L1000 260M1160 0L1050 260" stroke="#11090b" stroke-width="3" opacity=".35"/>
-<text x="48" y="58" font-family="monospace" font-size="16" letter-spacing="4" fill="#ff4056">GERMANPROGQ</text>
 <text x="44" y="139" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="900" letter-spacing="-2" fill="#fff1f3">GERMAN VINOKUROV</text>
 <text x="48" y="198" font-family="monospace" font-size="23" letter-spacing="3" fill="#ff4056">FULL-STACK DEVELOPER</text>
 <path d="M48 230H310" stroke="#ff233d" stroke-width="4"/>
